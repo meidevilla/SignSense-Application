@@ -1,0 +1,46 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration files
+local.properties
+*.iml
+.idea/
+
+# Android Studio files
+/.idea/
+/*.iml
+/.gradle/
+/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+
+# IntelliJ
+*.iws
+*.ipr
+
+# Proguard
+proguard/
+
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build
+/captures
+.externalNativeBuild
+.cxx

@@ -1,0 +1,17 @@
+100kph Maximum Speed Limit
+20T
+4.27m Height Limit
+40kph Maximum Speed Limit
+50kph Maximum Speed Limit
+60kph Minimum Speed Limit
+Approach to Intersection
+Divided Road Ahead
+Give Way
+Half-Y Junction
+Merging Traffic
+No Overtaking
+No Parking
+No U-Turn
+Pass Either Side
+Road Narrows - Left
+Turn Right Ahead
