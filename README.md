@@ -1,3 +1,8 @@
+<div align="center">
+  <a>
+    <img src="/app/src/main/res/drawable/logo.png" style="max-width: 200px" />
+  </a>
+</div>
 
 # SignSense: An Android-Based Application for Real Time Traffic Sign Detection with Voice Alert System and Temporal Data Integration
 
