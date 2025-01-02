@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img src="/app/src/main/res/drawable/logo.png" style="max-width: 200px" />
+    <img src="/app/src/main/res/drawable/logo.png" style="width: 200px" />
   </a>
 </div>
 
